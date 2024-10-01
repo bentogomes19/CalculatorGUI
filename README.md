@@ -27,7 +27,7 @@
 
 #### 1.4 run the "Calculator.exe"
         
-#### 2. Starting by the terminal
+#### 2. Executing by the terminal
 ##### Certify that you have python installed first.
 
 #### 2.1 Open your terminal (Windows: CMD / Linux: Terminal/Console)
@@ -44,7 +44,7 @@
 In this calculator we have the basics operations like sum, subtraction, division and multiplication
 - You can convert a number in percetual
 - You can clear the display
-- You can chance the signal of the number (+/-)
+- You can change the signal of the number (+/-)
 
 ### Layout 
 
