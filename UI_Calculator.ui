@@ -47,7 +47,7 @@
    <string>Calculator</string>
   </property>
   <property name="windowIcon">
-   <iconset theme="QIcon::ThemeIcon::DialogWarning"/>
+   <iconset theme="QIcon::ThemeIcon::Computer"/>
   </property>
   <property name="windowOpacity">
    <double>1.000000000000000</double>
@@ -1187,7 +1187,7 @@ background-color: rgb(135, 135, 135);
 border: none;</string>
       </property>
       <property name="maxLength">
-       <number>12</number>
+       <number>15</number>
       </property>
       <property name="frame">
        <bool>true</bool>
@@ -1199,6 +1199,9 @@ border: none;</string>
        <set>Qt::AlignmentFlag::AlignBottom|Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing</set>
       </property>
       <property name="dragEnabled">
+       <bool>true</bool>
+      </property>
+      <property name="readOnly">
        <bool>true</bool>
       </property>
       <property name="cursorMoveStyle">
