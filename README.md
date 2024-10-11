@@ -1,4 +1,4 @@
-# Caclulator App - PqQt6 - Python 🐍
+# Caclulator App - PyQt6 - Python 🐍
 
 ### System Requirements 🖥️
 - Operational System: Linux/Windows
